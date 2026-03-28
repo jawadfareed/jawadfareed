@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Muhammad Jawad Fareed 
-### Software Engineer | AI Developer | [cite_start]Full-Stack Architect [cite: 11, 12]
+### Software Engineer | AI Developer | Full-Stack Architect
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+AI-powered+solutions;Full+Stack+Development;Innovating+with+LLMs;Founder+at+IVOO" alt="Typing SVG" />
@@ -8,16 +8,16 @@
 ---
 
 ### 💫 About Me
-* [cite_start]🔭 **Current Role:** Building wellbeing-focused digital platforms at **Fruitful** and contributing to innovative software solutions at **Arkhitech**[cite: 23, 24, 34, 35].
-* [cite_start]👯 **Collaboration:** Looking to partner on open-source projects involving **LLM fine-tuning** or **multimodal systems**[cite: 16, 18].
-* [cite_start]🤝 **Goals:** Deepening my expertise in **ethical data automation** and **advanced cloud architecture**[cite: 18].
-* [cite_start]🌱 **Learning:** Currently exploring **Big Data**, **Machine Learning**, and the **MERN stack**[cite: 19].
-* [cite_start]💬 **Ask Me About:** React, TypeScript, Django, AI Engineering, or my 4-year journey leading **IVOO**[cite: 17, 43, 44].
-* [cite_start]⚡ **Fun Fact:** My AI system (**AI-VIS**) reduced hiring bias by 40% via facial/voice emotion analysis[cite: 16].
+* [cite_start]🔭 **Current Role:** Building wellbeing-focused digital platforms at **Fruitful** and contributing to innovative software solutions at **Arkhitech**. [cite: 24, 35]
+* [cite_start]👯 **Collaboration:** Looking to partner on open-source projects involving **LLM fine-tuning** or **multimodal systems**. [cite: 16, 18]
+* [cite_start]🤝 **Goals:** Deepening my expertise in **ethical data automation** and **advanced cloud architecture**. [cite: 18]
+* [cite_start]🌱 **Learning:** Currently exploring **Big Data**, **Machine Learning**, and the **MERN stack**. [cite: 19]
+* [cite_start]💬 **Ask Me About:** React, TypeScript, Django, AI Engineering, or my journey leading **IVOO**. [cite: 17, 43]
+* [cite_start]⚡ **Fun Fact:** My AI system (**AI-VIS**) reduced hiring bias by 40% via facial/voice emotion analysis. [cite: 16]
 
 ---
 
-### [cite_start]💻 Tech Stack [cite: 17, 35, 38]
+### 💻 Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -32,12 +32,12 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadjawadfareed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjawadfareed&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jawadfareed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadfareed&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadjawadfareed&theme=radical&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jawadfareed&theme=radical&column=7" />
 </div>
 
 ---
@@ -45,10 +45,10 @@
 ### 🌐 Connect With Me
 <div align="center">
 <a href="https://linkedin.com/in/muhammadjawadfareed" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jawadfarid383@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/jaadu20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:jawadfarid127@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/jawadfareed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=muhammadjawadfareed&label=Profile%20Views&color=1&style=flat" />
+  <img src="https://visitcount.itsvg.in/api?id=jawadfareed&label=Profile%20Views&color=1&style=flat" />
 </div>
