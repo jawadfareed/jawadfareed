@@ -8,12 +8,12 @@
 ---
 
 ### 💫 About Me
-* [cite_start]🔭 **Current Role:** Building wellbeing-focused digital platforms at **Fruitful** and contributing to innovative software solutions at **Arkhitech**. [cite: 24, 35]
-* [cite_start]👯 **Collaboration:** Looking to partner on open-source projects involving **LLM fine-tuning** or **multimodal systems**. [cite: 16, 18]
-* [cite_start]🤝 **Goals:** Deepening my expertise in **ethical data automation** and **advanced cloud architecture**. [cite: 18]
-* [cite_start]🌱 **Learning:** Currently exploring **Big Data**, **Machine Learning**, and the **MERN stack**. [cite: 19]
-* [cite_start]💬 **Ask Me About:** React, TypeScript, Django, AI Engineering, or my journey leading **IVOO**. [cite: 17, 43]
-* [cite_start]⚡ **Fun Fact:** My AI system (**AI-VIS**) reduced hiring bias by 40% via facial/voice emotion analysis. [cite: 16]
+* 🔭 **Current Role:** Building wellbeing-focused digital platforms at **Fruitful** and contributing to innovative software solutions at **Arkhitech**.
+* 👯 **Collaboration:** Looking to partner on open-source projects involving **LLM fine-tuning** or **multimodal systems**.
+* 🤝 **Goals:** Deepening my expertise in **ethical data automation** and **advanced cloud architecture**.
+* 🌱 **Learning:** Currently exploring **Big Data**, **Machine Learning**, and the **MERN stack**.
+* 💬 **Ask Me About:** React, TypeScript, Django, AI Engineering, or my 4-year journey leading **IVOO**.
+* ⚡ **Fun Fact:** My AI system (**AI-VIS**) reduced hiring bias by 40% via facial/voice emotion analysis.
 
 ---
 
