@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Muhammad Jawad Fareed 
-### Software Engineer | AI Developer | Full-Stack Architect
+### Software Engineer | AI Developer | [cite_start]Full-Stack Architect [cite: 11, 12]
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+AI-powered+solutions;Full+Stack+Development;Innovating+with+LLMs;Founder+at+IVOO" alt="Typing SVG" />
@@ -8,16 +8,16 @@
 ---
 
 ### 💫 About Me
-* [cite_start]🔭 **Current Role:** Building wellbeing-focused digital platforms at **Fruitful** and contributing to innovative software solutions at **Arkhitech**[cite: 22, 23, 33, 34].
+* [cite_start]🔭 **Current Role:** Building wellbeing-focused digital platforms at **Fruitful** and contributing to innovative software solutions at **Arkhitech**[cite: 23, 24, 34, 35].
 * [cite_start]👯 **Collaboration:** Looking to partner on open-source projects involving **LLM fine-tuning** or **multimodal systems**[cite: 16, 18].
 * [cite_start]🤝 **Goals:** Deepening my expertise in **ethical data automation** and **advanced cloud architecture**[cite: 18].
 * [cite_start]🌱 **Learning:** Currently exploring **Big Data**, **Machine Learning**, and the **MERN stack**[cite: 19].
-* [cite_start]💬 **Ask Me About:** React, TypeScript, Django, AI Engineering, or my 4-year journey leading **IVOO**[cite: 17, 42, 43, 44].
+* [cite_start]💬 **Ask Me About:** React, TypeScript, Django, AI Engineering, or my 4-year journey leading **IVOO**[cite: 17, 43, 44].
 * [cite_start]⚡ **Fun Fact:** My AI system (**AI-VIS**) reduced hiring bias by 40% via facial/voice emotion analysis[cite: 16].
 
 ---
 
-### 💻 Tech Stack
+### [cite_start]💻 Tech Stack [cite: 17, 35, 38]
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -32,12 +32,12 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jawadfareed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadfareed&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadjawadfareed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjawadfareed&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawadfareed&theme=radical&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadjawadfareed&theme=radical&column=7" />
 </div>
 
 ---
@@ -50,5 +50,5 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jawadfareed&label=Profile%20Views&color=1&style=flat" />
+  <img src="https://visitcount.itsvg.in/api?id=muhammadjawadfareed&label=Profile%20Views&color=1&style=flat" />
 </div>
